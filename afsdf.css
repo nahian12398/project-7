@@ -1,0 +1,162 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+* {
+    margin: 0;
+}
+
+.gh {
+    width: 80px;
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+}
+
+.ic {
+    height: 30px;
+    width: 30px;
+    margin: 20px;
+    position: relative;
+    left: 5px;
+}
+
+.p1 {
+    font-weight: 100;
+    font-size: small;
+    justify-self: center;
+    position: relative;
+    top: -20px
+
+}
+
+.bd {
+    display: flex;
+}
+
+.ytl {
+    height: 40px;
+    width: auto;
+    margin: 20px;
+    margin-right: 0;
+
+}
+
+#in {
+    height: 50px;
+    width: 600px;
+    margin: 10px;
+    margin-right: 0;
+    opacity: .7;
+
+}
+
+.top-left {
+    display: flex;
+}
+
+.ic1 {
+    height: 37px;
+    width: auto;
+    padding: 9px;
+    background-color: rgba(201, 201, 201, 0.594);
+    margin: 5px;
+    margin-top: 10px;
+    margin-left: 0;
+}
+
+.ic2 {
+    height: 37px;
+    width: auto;
+    padding: 9px;
+    margin: 5px;
+    background-color: rgba(201, 201, 201, 0.594);
+    border-radius: 50px;
+    margin-top: 10px;
+}
+
+.ic3 {
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+    margin-top: 15px;
+}
+
+.img {
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+    margin-top: 0;
+    border-radius: 50px;
+}
+
+
+.op {
+    opacity: .7;
+}
+.btnt{
+    display: flex;
+}
+.s1{
+border-radius: 20px;
+background-color: black;
+padding: 10px 15px;
+margin: 5px 10px;
+color: white;
+font-weight: 100;
+}
+.s2{
+    border-radius: 20px;
+    background-color: rgba(211, 211, 211, 0.623);
+    padding: 10px 15px;
+    margin: 5px;
+    color: black;
+    font-weight: 100;
+    border: black 1px solid;
+    font-family:sans-serif;
+   opacity: .8;
+}
+.lst{
+    height: 2600px;
+    width: 1190px ;
+    background-color:rgba(211, 211, 211, 0.623) ;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}
+.img1{
+    height: 180px ;
+    width: auto;
+    margin: 15px;
+}
+.fl{
+    display: flex;
+    margin: 0;
+    align-items: start;
+
+}
+.front{
+    font-weight: bolder;
+    font-size: x-large;
+}
+.middle{
+    font-weight: bold;
+    font-size: large;
+}
+.end{
+    font-weight:300;
+    font-size: medium;
+}
+.img8 {
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+    margin-top: 15px;
+    border-radius: 50px;
+}
+.spa{
+  align-self: flex-end;
+
+}
+.hig{
+    line-height: 30px;
+}
+ 
